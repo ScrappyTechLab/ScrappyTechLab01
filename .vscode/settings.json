@@ -2,6 +2,12 @@
     "files.associations": {
         "stdlib.h": "c",
         "stdio.h": "c",
-        "pinconstants.h": "c"
-    }
+        "pinconstants.h": "c",
+        "functional": "c",
+        "ws2812.hpp": "c",
+        "types.h": "c",
+        "array": "cpp",
+        "adc.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
 }
